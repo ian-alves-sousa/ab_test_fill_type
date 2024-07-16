@@ -288,13 +288,13 @@ Além disso, descobrimos que variáveis como gênero e device não influenciam n
 
 Por fim, em alguns lugares observamos uma preferência no tipo de preenchimento, como no México, que apresentou média de valor gasto 10% maior no preenchimento automático. Em contrapartida, na França de encontram os principais ofensores so novo tipo de preenchimento, onde a média de valor gasto de de compras é 10% menor no novo método.
 
-# 7. Conclusão
+# 8. Conclusão
 
 Nesse projeto, foram realizadas todas as etapas necessárias para a implementação de um projeto completo de Data Science focado na utilização do Teste A/B. Foi utilizado o método de gerenciamento de projeto chamado CRISP-DM/DS e obteve-se um desempenho satisfatório em compreender a utilização do teste A/B e aplicar em um problema real.
 
 Tendo em vista os resultados, o projeto alcançou seu objetivo de fazer o teste e provar para a empresa de forma estatística que o nov tipo de preenchimento não foi o esperado.
 
-# 8. Aprendizados e Trabalhos Futuros
+# 9. Aprendizados e Trabalhos Futuros
 
 **Aprendizados**
 
