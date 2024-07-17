@@ -6,7 +6,7 @@
 
 # Introdução
 
-Esse é um projeto end-to-end de Data Sciente, focado na especiação com Teste A/B. No qual identificamos qual é o melhor método de preenchimento de formulário de dados do cartão de crédito, e mostramos a importância de aplicar esse tipo de teste e suas diferentes vertentes.
+Esse é um projeto end-to-end de Data Science, focado na especilização com Teste A/B. No qual identificamos qual é o melhor método de preenchimento de formulário de dados do cartão de crédito, e mostramos a importância de aplicar esse tipo de teste e suas diferentes vertentes.
 
 O conjunto de dados pode ser encontrado através desse link: [Repositório do Google Drive](https://drive.google.com/file/d/1oUJLeAgSaUI7CA-0F14KG0FzXEim7pSe/view)
 
